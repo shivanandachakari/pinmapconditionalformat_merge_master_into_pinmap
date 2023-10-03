@@ -1,0 +1,1 @@
+# pinmapconditionalformat_merge_master_into_pinmap
